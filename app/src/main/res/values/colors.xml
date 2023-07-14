@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="themeBackground">#F6F1F1</color>
+    <color name="text">#146C94</color>
+    <color name="buttonEnabled">#19A7CE</color>
+    <color name="textDark">#0A4859</color>
+    <color name="background_edit_text">#9DBBAE</color>
+    <color name="buttonBlue">#9DBBAE</color>
+    <color name="buttonCancel">#AC1010</color>
+    <color name="helperRequired">#B30C0C</color>
+    <color name="greenCorrect">#087108</color>
+</resources>

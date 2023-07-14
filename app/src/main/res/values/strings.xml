@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To-do app xml</string>
+    <string name="just_a_string">Just a string</string>
+    <string name="notes">Notey</string>
+    <string name="button_click">Button click</string>
+    <string name="login">Welcome to Notey!</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="all_notes">Your notes :)</string>
+    <string name="add_note">Add note here -></string>
+    <string name="adding_note">Add new node</string>
+    <string name="add_note_title">Title</string>
+    <string name="add_note_description">Description</string>
+    <string name="add_note_button">Add note</string>
+    <string name="cancel">Cancel</string>
+    <string name="helper">Required</string>
+    <string name="registrate">Registration</string>
+    <string name="name">Name</string>
+    <string name="reenterPassword">Re-enter password</string>
+    <string name="register">Register</string>
+    <string name="notey">Notey</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
